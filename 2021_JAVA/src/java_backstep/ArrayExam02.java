@@ -14,8 +14,8 @@ public class ArrayExam02 {
 				}
 			}
 		}
-//		for(int i=0; i<ArrNum.length; i++) {
-//			System.out.println(ArrNum[i]);
-//		}
+		for(int i=0; i<ArrNum.length; i++) {
+			System.out.println(ArrNum[i]);
+		}
 	}
 }
