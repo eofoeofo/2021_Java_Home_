@@ -9,7 +9,7 @@ public class ArrayExam02 {
 			for(int j=0; j<i; j++) {
 				if(ArrNum[i] == ArrNum[j]) {
 					System.out.println(ArrNum[i]);
-					System.out.println("----");
+					System.out.println("-----");
 					i--;
 				}
 			}
