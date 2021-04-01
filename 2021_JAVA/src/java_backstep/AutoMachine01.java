@@ -53,4 +53,9 @@ public class AutoMachine01 {
 		scan.close();
 		System.out.printf("합계: %d원\n", total);
 	}
+
+	private static int sum(int i, int j) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
 }
