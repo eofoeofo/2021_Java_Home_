@@ -9,7 +9,6 @@ public class MethodVendingMachine {
 		int[] arrPrice = { 1000, 1200, 1300, 1500, 2000 };
 		printMenu(arrMenu, arrPrice);
 		String result = choiceMenu(arrMenu,arrPrice);
-		
 		System.out.println(result);
 	}
 	public static void printMenu(String[] arrMenu, int[] arrPrice) {
